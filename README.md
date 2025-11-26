@@ -1,4 +1,6 @@
-# XAI_Machine_Learning_Court
+# Explainable AI in Loan Decision Modeling
+
+![Demo Image](image.jpeg)
 
 This analysis explores a loan denial decision through the lens of explainable AI (XAI), presented in a courtroom-style format. The case centers on Jane Dow, a 37-year-old professional woman with a bachelor’s degree and an executive occupation, whose loan application was denied by a machine learning model.
 
